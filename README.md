@@ -1,8 +1,7 @@
-## 欢迎来到Tango个人简历主页
-
-You can use the [editor on GitHub](https://github.com/GodloveParadise/tango-resume.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 欢迎来到Tango个人简历主页
+**自我介绍：**
+- **性格:**稳重踏实、内敛、责任感、团队精神 
+- **做事:**做事有效率、计划性、执行力、自制力、较强适应能力
 
 ## 基本信息
 
@@ -14,58 +13,77 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - QQ/微信：   707690893
 - 政治面貌：  中共党员
 
+-------------------
 ## 教育经历
 
- __2015.09 - 2018.06         东南大学(985)            硕士研究生__
- _                        控制工程专业         保研入学_
- __2011.09 - 2015.06     东北大学(985)        学士学位__
- _                         自动化专业          Top 5% _
+ **2015.09 - 2018.06　　　东南大学(985)　　　　硕士研究生**
+　　　　　　　　　　　　控制工程专业      　　　   保研入学
+**2011.09 - 2015.06　　　东北大学(985)　　　　学士学位**
+　　　　　　　　　　　　自动化专业　　　　　Top 5%
 
-## 实习经历
+-------------------
+##专业技能
+- 熟悉Java，具有面向对象程序设计思想，了解 JVM 运行机理;
+- 熟悉C/C++，具备熟练使用STL库编程能力
+- 熟悉数据结构与算法分析方法;
+- 掌握常用设计模式，如代理模式、单例模式、
+- 外观模式、观察者模式;
+-  掌握计算机操作系统、计算机网络等编程基础知识;
+- 具备Spring、Mybatis项目开发实践经验;
+- 掌握TCP/IP网络编程，具有Windows、Unix平台下 Socket 编写应用层程序能力;
+- 具备Windows平台下Qt、MFC界面开发经验;
+- 了解Linux/Unix操作系统，具备Unix环境下简单编程调试能力
+- 了解负载均衡、网络编程等基础知识;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-------------------
+##实习经历
+**2017.06 - 2017.10　　美团点评　　到店与综合事业群**
+-  基于Spring购物与社区业务产品线服务端开发;
+-  首先千人千面个性化推荐实现;
+-  二手交易项目代码重构;
+-  参与公司技术技能培训;
+
+**2016.08 - 2017.05　　南京科远股份公司　　应用软件开发部**
+- **项目名称：**  基于UWB室内定位系统研究
+- **职位：**  算法研发工程师
+- **项目简介：**  项目服务于智慧电厂项目，基于 UWB 超宽带通信技术，通过室内 布置基站，人员佩戴标签，通过 UWB 测距获得距离信息，传至定位引擎服务 器，经定位算法解析实时获取人员(标签)的坐标信息，达到人员定位和物料跟踪、 调度以及危险区域报警等功能，同时为上层 3D 地图提供坐标服务。可应用于消 防、工业自动化、物联网等领域。
+- **主要职责：**
+      室内定位算法研究、实现、优化;
+      定位引擎服务软件开发;
+      参与系统需求分析、方案设计、开发、测试、发布等各阶段;
+- **主要成果：**
+    实现一套室内定位滤波算法，定位误差 10-30cm,满足系统的要求(国内业界前列); 
+    创新性提出多级优先级队列方案解决系统容量不足的难题;  
+    通过改进Kalman滤波算法，能够实现静态稳定、动态跟踪的效果;
+    粒子群算法优化，改善定位耗时特性;
+
+-------------------
+##科研经历
+**发表论文**
+
+《基于 UWB 室内定位算法研究》.工业控制计算机.2017(06) 第一作者
+《基于 Matlab 汽车减震系统研究》.科技创新导报.2014(03)      第一作者
+**项目经历**
+
+**2015.12 - 2016.05   基于RFID室内行车定位系统           独立负责人**
+- **项目描述：**
+ 项目来自于企业信息化管理实际需求，在进行物料的调度和装卸过程中，需要定位物料的具体垛位信息，室内行车定位系统基于RFID实现行车的二维定位，继而获得物料的入库出库信息，为上层物料管理系统提供服务，目前项目实际应用于张家港沙钢钢铁公司、玖隆物流有限公司。
+- **主要任务**
+	     - 系统的维护与改进；
+	     - 行车定位精度的改善；
+- **创新点：**
+	 -双天线RFID识别，定位分辨率提高50%,提高定位精度，提高准确率。
 
 
+-------------------
+##社会实践
+**201602 - 2017.02    东南大学自动化学院研究生会副主席**
+负责研究生会部分活动的组织和筹划，如:担 任“第七届牵手东大南京高校联谊活动”负责 人，涉及南京 8 所高校，700+人报名，参加人员 120 人;负责组织“爱心伞活动”;负责筹划组织“户外素质拓展活动”;
 
-
-
-## 校园实践
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
-
-
-## 社会实践
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GodloveParadise/tango-resume.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-------------------
+##奖项荣誉
+- 校优秀研究生干部 　　　　东南大学 
+- 五四表彰优秀团员 　　　　东南大学 
+- 科技发展奖学金 　　　　　东南大学
+- 学业二等奖学金　　　　　 东南大学 
+-  三年国家励志奖学金　　　 东北大学
