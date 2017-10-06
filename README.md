@@ -16,21 +16,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 教育经历
 
-### 2015.09 - 2018.06   东南大学(985)       硕士研究生
-                        控制工程专业         保研入学
-### 2011.09 - 2015.06   东北大学(985)       硕士研究生
-                        控制工程专业          Top 5%
+#### 2015.09 - 2018.06     东南大学(985)        硕士研究生
+                            控制工程专业         保研入学
+#### 2011.09 - 2015.06     东北大学(985)       硕士研究生
+                             自动化专业          Top 5%
 
-
-### 实习经历
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
-
-
-### 校园实践
+## 实习经历
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -38,7 +29,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 
-### 社会实践
+## 校园实践
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+
+
+## 社会实践
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
