@@ -4,17 +4,22 @@ You can use the [editor on GitHub](https://github.com/GodloveParadise/tango-resu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 基本信息
+## 基本信息
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 唐路/男/1992
+- 籍贯：    江苏省徐州市
+- 工作年限： 应届毕业生
+- 邮箱： neuqtanglu@163.com
+- 手机： 15251858336
+- QQ/微信：   707690893
+- 政治面貌：  中共党员
 
+## 教育经历
 
-
-### 教育经历
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
+### 2015.09 - 2018.06   东南大学(985)       硕士研究生
+                        控制工程专业         保研入学
+### 2011.09 - 2015.06   东北大学(985)       硕士研究生
+                        控制工程专业          Top 5%
 
 
 ### 实习经历
