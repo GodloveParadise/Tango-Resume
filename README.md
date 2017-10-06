@@ -13,7 +13,7 @@
 - QQ/微信：   707690893
 - 政治面貌：  中共党员
 - 博客：http://blog.csdn.net/u013291818/ 
-- Github: https://godloveparadise.github.io/tango-resume/
+- Github: https://tangocc.github.io/tango-resume/
 
 -------------------
 ## 教育经历
