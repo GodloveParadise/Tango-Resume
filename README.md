@@ -3,7 +3,7 @@
 ## 基本信息
 
 - Tango/男/1992
-- 邮箱： neuqtanglu@163.com
+- 邮箱： iamtango@foxmail.com
 - 手机： 13717503610
 - QQ/微信：   707690893
 - 博客：http://blog.csdn.net/u013291818/ 
@@ -21,11 +21,6 @@
 ## 专业技能
 
 - 具备以下语言编程能力: Go、Java、Php、C++
-- 熟悉数据结构、设计模式、操作系统、计算机网络
-- 熟悉nginx/redis/zookeeper等开源组件
-- 具备kubernete、docker部署、运维经验
-
-
 
 -------------------
 
